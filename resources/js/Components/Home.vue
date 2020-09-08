@@ -3,7 +3,7 @@
         <div class="welcome-box">
             <img src="img/logo.svg" class="logo" alt="">
              <div>
-                <b-button class="link b-sm-sign-left" pill variant="outline-secondary" href="/">signup</b-button>
+                <b-button class="link b-sm-sign-left" pill variant="outline-secondary" href="/signup">signup</b-button>
                 <b-button class="link b-sm-sign-right" pill variant="outline-warning " href="/">signin</b-button>
             </div>
 
@@ -13,7 +13,7 @@
             Discover, stream, and share a constantly expanding mix of music from emerging and major artists around the world.
             </p>
             <div>
-                <b-button class="link b-l-signup" pill variant="outline-secondary" href="/">signup For Free</b-button>
+                <b-button class="link b-l-signup" pill variant="outline-secondary" href="signup">signup For Free</b-button>
             </div>
 
             

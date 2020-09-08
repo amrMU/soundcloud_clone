@@ -1,5 +1,6 @@
 import Home from './Components/Home';
 import NotFound from './Components/Errors/NotFound';
+import Signup from './Components/Auth/Signup';
 
 export default {
     mode: 'history',
@@ -10,6 +11,10 @@ export default {
         {
             path: '/',
             component: Home
-        }
+        },
+        {
+            path: '/signup',
+            component: Signup
+        },
     ],
 }
