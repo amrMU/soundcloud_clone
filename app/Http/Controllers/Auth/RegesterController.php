@@ -7,5 +7,8 @@ use Illuminate\Http\Request;
 
 class RegesterController extends Controller
 {
-    //
+    public function postRegester(Request $request)
+    {
+        # code...
+    }
 }
